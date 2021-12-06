@@ -1,0 +1,19 @@
+{
+  "name": "signup-form",
+  "version": "1.0.0",
+  "description": "Frontend mentor challenge",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "challenge",
+    "vanilla",
+    "js"
+  ],
+  "author": "Dusan Lukic",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.44.0"
+  }
+}
