@@ -63,3 +63,10 @@ document.addEventListener("keydown", function (e) {
     submitForm();
   }
 });
+
+// reload button
+window.onload = function () {
+  for (let i = 0; i < inputFields.length; i++) {
+    inputFields[i].value = "";
+  }
+};
