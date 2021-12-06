@@ -1,8 +1,0 @@
-@use "variables" as *;
-
-// For desktop view
-@mixin desktop {
-  @media (min-width: $mobile) {
-    @content;
-  }
-}
