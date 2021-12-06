@@ -64,7 +64,7 @@ document.addEventListener("keydown", function (e) {
   }
 });
 
-// reload button
+// reload button set
 window.onload = function () {
   for (let i = 0; i < inputFields.length; i++) {
     inputFields[i].value = "";
