@@ -6,6 +6,11 @@
   box-sizing: border-box;
 }
 
+::selection {
+  color: #ff7a7a;
+  background: #fff;
+}
+
 body {
   font-size: 62.5%;
   font-family: "Poppins", sans-serif;
